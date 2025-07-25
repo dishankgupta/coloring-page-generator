@@ -1,0 +1,5 @@
+{
+  "name": "Coloring Page Generator",
+  "description": "An application that generates black-and-white coloring book pages from a simple text description using AI. Perfect for creating custom coloring sheets for kids and adults.",
+  "requestFramePermissions": []
+}
